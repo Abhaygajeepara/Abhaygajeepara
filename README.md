@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhaygajeepara
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently working on flutter 
+- 🌱 I’m currently working with flutter 
 - 📫 To contact me send mail on abhaygajeepara@gmail.com
 
 <!---
